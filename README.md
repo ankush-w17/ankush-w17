@@ -1,5 +1,5 @@
 ![MasterHead](Github-header.png)
-<h1 align="center">Hi 👋, I'm Ankush Wadhwani</h1>
+<!--<h1 align="center">Hi 👋, I'm Ankush Wadhwani</h1>-->
 <h3 align="center">Passionate Front-End Developer with a Love for All Things Web</h3>
 
 - 🌱 I’m currently learning **React**
