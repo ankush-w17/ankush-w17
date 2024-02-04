@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+![MasterHead](Github-header.png)
 <h1 align="center">Hi 👋, I'm Ankush Wadhwani</h1>
 <h3 align="center">Passionate Front-End Developer with a Love for All Things Web</h3>
 
